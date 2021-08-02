@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vocal-airline-321610",
+  "private_key_id": "0678f58ba09a52be2749426fdf5640f66b93e61d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkxbikNasmHBGZ\nFD/C7mgz7FwgnwLc2ZFo5ySUz+zq9kOS+CouqUPgoqUnTR5CiTfM0MrJZCbsLWbX\nS9HCuVErINYzOAc4Ee5+TW/hzj0qEkhOvCItL1GCMid8kwf/Fnw7z0uiEThXEOhu\nUdLB3HMPtf25Os5z1fMwVC30sLGP9Shb2SBifY8ElEcEKp8w55JLaw+ZOeJxbUfG\n2Iduk+L8HYMKuSB/SAN+nKHhg9VAKAV+tYlcwi6YaWKBpbfub8029JCblopaVq5K\nS+LrfTMy8dGwb1PR3Yt74+fKwuFSO/rorg58enM+WiWaRbmHfim8BvIMydBgc1tG\n16H1vCRjAgMBAAECggEAAfHMFjQglAf8UmBPbULccIml5exTh+K5eEDz0BQ0++z6\nmIJubIdrneIiX+RnI83h/JbGXCQJUqiPg6aWWSQ2am0Iu66vC16Z2zOP4vFyDa55\n3ACAPEfGkB7CJw90HlfT4KzRsH+jfT/lYvkmWUPM3EunWh3tyxEgH2B4n7wcZxbZ\nD0RC/CVSVJaVo9pHtaq0Fgip7B7+VJTeCK63HQ0PYiY49tmQzoMo7SMo0MEEfVgC\nI2QQ+6ldc17ey1cNj1LlU0hxm+QFucf6xrcQgXglTsct8EgZyrLjX+SV5pXJvWW6\nlE1/2nHySDa2mtG2YFeonxV9lR31Q5hvszONINIKsQKBgQD/3kmxs4iNfhUtc7qK\nw6Q963dlH5IN1LmMM5IYLbrmyh3eWTvFSzNaqpB6IOb3hzEmNN1yhB9ZZKYFIBCb\nbEODSMNgidKMlMVcnk2+JxWlyVvtuT4xjEFWr7rc8kD+PtEfOGVZoo/z/a2RkBNE\nyNnG4EVNlLOrYl+3AIOrOs14sQKBgQDk490DtBHHdsCBoORYHie8FlSvdoBIbU7Y\naOWPiboxYnESRANPZK7Sw/SAaJKIaSDRyyQBtGJ1VqtN+fEuRixGlXPBT8swErw4\n3HBYrJ6xAAroc8ti5JdtJZ511mBZHS+FnfnsPPbpaswqXXxU+l6Ac7uhm1feeP0n\nXGwK1+7zUwKBgQD6KBAQxqB5BY4a9AyrYn+Pckk2+tjG4PXPlxP8w6j5vx3Yp5GC\nYPWCbUP3w3dNBkYNPp5LOdWUhoyychkKe5y+HEO4fMb3XvReiv8jK/9EKUvRbcza\nkG/JGuIs5kSYzj2SsoaUThVDzP8HU78i/uO8RsQ7B2lp5DIEL2KL5F/C4QKBgQCn\nkJE6ptblOXCQ9aJ1SA46yfZRReWAIFW6ZIC6Zk+i27h/cL8jnkfGEKKsZuHvb1cR\nfy/q942k7UAXo8UG5WSAf+TwPmQ3219kGS0+HZFHbwqNRkg9K7AXvZSWG80JMC6c\nGRzf73mrQ/4Xfb0J0Qjh7NgN5VWcjuJ1sFmATril9QKBgQDzE4KlLDtC1TfUANYL\nBBmeUz0b+sXvPcC1G6nuMYSVepFoAVN7wtLsYYCA4XoDes8fnCzSG7EA5j5Fgamp\nDUCR4ROGz7ZaGp1e0Rgp9vUM5KXcL7uZz/4F5r7LG8bA7m/egjaFJYpbApYxC3U2\n+o3VIEdWc4R81PbqySpvN1TRqw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-54u4mee489z405ej6xm8thapls@vocal-airline-321610.iam.gserviceaccount.com",
+  "client_id": "106466906245246698490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-54u4mee489z405ej6xm8thapls%40vocal-airline-321610.iam.gserviceaccount.com"
+}
